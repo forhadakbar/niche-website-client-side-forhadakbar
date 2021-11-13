@@ -42,7 +42,7 @@ This project was deployed in Firebase [Go To Live Site](https://niche-website-fo
 - Click **Book Now** will take you to sign in to our website if you are not signed in already. We have used firebase authentication along with private route and redirect  to implement sign in.
 - It will redirect to your choosen apartment after sign in 
 - Each user will see their **Dashboard" after signed in
-- Normal user will have *pay* *My Orders* *Review* *Logout* in the sidebar when admin user will have *Manage All order* *Add a Appartment* *Make Admin* and *logout*
+- Normal user will have *pay*, *My Orders*, *Review*, *Logout* in the sidebar when admin user will have *Manage All order*, *Add a Appartment*, *Make Admin* and *logout*
 - Click **My order**  from sidebar to see your booking, you will need to sign in to see your booking. 
 - Click **Add a Apartment**  from sidebar to add a new apartment of your choice, you will need to sign in and have admin role.
 - Click **Admin**  from header to see all booking from all users, you will need to sign in to see all booking and have admin role. 
