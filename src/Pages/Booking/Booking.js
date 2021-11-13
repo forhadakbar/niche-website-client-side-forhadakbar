@@ -54,7 +54,7 @@ const Booking = () => {
                                 <img src={filterData[0].img} className="card-img-top" alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title">{filterData[0].title}</h5>
-                                    <p className="card-text">{filterData[0].detail}</p>
+                                    <p className="card-text">{filterData[0].description}</p>
                                     <p className="fw-bold">Price: ${filterData[0].price}</p>
                                 </div>
                             </div>

@@ -4,7 +4,7 @@ import "./Pricing.css"
 
 const Pricing = () => {
     return (
-        <div>
+        <div id="pricing">
 
 
             <section className="price-sec">
