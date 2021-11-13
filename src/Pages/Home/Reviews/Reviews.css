@@ -1,0 +1,13 @@
+.feedback-card .card {
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    /* border: none !important; */
+  }
+  
+  .feedback-card {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .feedback-card:hover {
+    transform: scale(1.04);
+  }

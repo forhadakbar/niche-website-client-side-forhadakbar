@@ -1,0 +1,24 @@
+.sidebar {
+  background-color: #5ec5b7;
+  /* height: 100vh; */
+  /* background-image: linear-gradient(40deg, #19d3ae, #0fcfec); */
+}
+
+.sidebar li {
+  margin-bottom: 2em;
+  text-decoration: none;
+}
+
+.sidebar li:hover span {
+  display: inline-block;
+  transform: translate(5px);
+}
+
+.sidebar svg {
+  margin-right: 5px;
+}
+
+.sidebar-pages {
+  height: 100vh;
+}
+
