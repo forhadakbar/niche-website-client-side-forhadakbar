@@ -1,6 +1,12 @@
 # ApartmentShark Website
 
-This project was deployed in Firebase [Go To Live Site](https://niche-website-forhadakbar.web.app).
+This project was deployed in Firebase [Go To Live Site](https://niche-website-forhadakbar.web.app).  
+This project's server was deployed in Heroku [Go To Live Site](https://dashboard.heroku.com/apps/calm-citadel-30522).
+
+## GitHub Link
+[Client](https://github.com/forhadakbar/niche-website-client-side-forhadakbar).  
+[Server](https://github.com/forhadakbar/niche-website-server-side-forhadakbar).  
+
 
 ## Front-end Technology Used
 - React JS
